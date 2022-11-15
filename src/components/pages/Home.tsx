@@ -18,9 +18,9 @@ export default function Home() {
       <h2>About</h2>
       <p>
         This project was made by{" "}
-        <a href="https://www.github.com/fazil47">Fazil Babu</a>,{" "}
-        <a href="https://www.github.com/Aron-droid">Aron C Anand</a> and{" "}
-        <a href="https://www.github.com/Akhilsoe">Akhil BR</a> as a mini-project
+        <a href="https://www.linkedin.com/in/fazil47/">Fazil Babu</a>,{" "}
+        <a href="https://www.linkedin.com/in/aron-anand-6334ab198/">Aron C Anand</a> and{" "}
+        <a href="https://www.linkedin.com/in/akhil-b-r-a04169240/">Akhil BR</a> as a mini-project
         for semester 6 at CUSAT.
       </p>
       <p>
